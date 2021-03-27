@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\cs211\fp
+-- Using vendored Catch2 library (.cs211/lib/catch)
+-- Using vendored Ge211 library (.cs211/lib/ge211)
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/cs211/fp/cmake-build-debug
